@@ -28,10 +28,11 @@ To be able to run the scripts clone the repository and do the following soft lin
 ``` bash
 ln -s /media/SSD3/jpperezu/Efficient_DDPMs/ddpm_nas
 ```
+This path is from Lambda_001 (192.168.192.147)
 
 To reproduce the images used in Figure 1 and 4 in the paper run:
 ``` bash
-Fig_1_4.sh as bash Fig_1_4.sh
+bash Fig_1_4.sh
 ```
 
 To reproduce Figure 2, Figure 3, Figure 5 run: 
