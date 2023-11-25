@@ -53,5 +53,5 @@ To run the demo for a particular prompt run:
 ``` bash
 bash main.sh
 ```
-Choose the policy you want to use (make sure to adapt num_inference_steps to your policy)  Here i use #AG 0.9994 (32 NFEs)
+Choose the policy you want to use (make sure to adapt num_inference_steps to your policy)  Here I use #AG 0.9994 (32 NFEs). To change the prompt to whichever you like change --prompt 'Lovely white fondant-covered cake with a purple ribbon' in bash main.sh
 
